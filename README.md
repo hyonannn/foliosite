@@ -1,1 +1,1 @@
-# foliosite.github.io
+# foliosite
